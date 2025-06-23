@@ -11,6 +11,4 @@ A Minecraft Velocity plugin that allows managing the Pterodactyl gameserver pane
  - Contact me on discord: andrexdev
  - Thank you for using my plugin!
 
-# License
-
-[![License: CC BY-NC-SA 4.0](https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc-sa/4.0/)
+[![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
