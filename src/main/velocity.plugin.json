@@ -1,0 +1,7 @@
+{
+  "id": "pteroutil",
+  "name": "Pterodactyl-Util",
+  "version": "1.0",
+  "main": "org.andrexserver.playerUtil.Main",
+  "authors": ["Andrex"]
+}

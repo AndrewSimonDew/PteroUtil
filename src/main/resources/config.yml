@@ -1,0 +1,6 @@
+apikey: YOUR API KEY HERE
+url: https://YOUR PANEL URL HERE
+
+servers:
+  survival: PTERODACTYL SERVER UUID HERE
+  creative: PTERODACTYL SERVER UUID HERE
