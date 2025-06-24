@@ -57,7 +57,7 @@ public class PowerCommand implements SimpleCommand {
                 long seconds = uptimeSecs % 60;
 
                 String formattedUptime = String.format("%d hrs, %02d mins, %02d secs", hours, minutes, seconds);
-                source.sendMessage(Component.text("Uptime: " + formattedUptime));
+                source.sendMessage(Component.text("§a[§6PteroUtil§a] §aUptime: §6 " + formattedUptime));
                 break;
             default:
                 source.sendMessage(Component.text("§a[§6PteroUtil§a] §6Unknown action! §c/serverctl <start|stop|restart|status> <server>"));
